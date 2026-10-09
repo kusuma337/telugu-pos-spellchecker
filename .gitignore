@@ -1,0 +1,30 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testing and type-checking caches
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Generated figures
+results/figures/*.png
+
+# Processed data cache
+data/processed/*.json
+
+# IDE settings
+.idea/
+.vscode/

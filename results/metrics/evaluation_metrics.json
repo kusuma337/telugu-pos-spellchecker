@@ -1,0 +1,452 @@
+{
+  "dataset_note": "Metrics below are computed from the dataset currently in data/raw/. If you are using the bundled sample corpus, these numbers are demonstration-only and should not be reported as research results.",
+  "n_test_sentences": 23,
+  "n_test_tokens": 112,
+  "labels": [
+    "PUNCT",
+    "VERB",
+    "NOUN",
+    "PRON",
+    "ADJ",
+    "ADP",
+    "DET",
+    "PROPN",
+    "ADV",
+    "CCONJ",
+    "NUM",
+    "INTJ",
+    "PART"
+  ],
+  "metrics": {
+    "MostFrequentTag": {
+      "accuracy": 0.9553571428571429,
+      "precision": 0.7554945054945055,
+      "recall": 0.7384615384615384,
+      "f1": 0.7424585218702866,
+      "support": 112,
+      "report": {
+        "PUNCT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 23.0
+        },
+        "VERB": {
+          "precision": 0.8214285714285714,
+          "recall": 1.0,
+          "f1-score": 0.9019607843137255,
+          "support": 23.0
+        },
+        "NOUN": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 25.0
+        },
+        "PRON": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 17.0
+        },
+        "ADJ": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 7.0
+        },
+        "ADP": {
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1-score": 0.75,
+          "support": 5.0
+        },
+        "DET": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "PROPN": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "ADV": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "CCONJ": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 2.0
+        },
+        "NUM": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 1.0
+        },
+        "INTJ": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "PART": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "accuracy": 0.9553571428571429,
+        "macro avg": {
+          "precision": 0.7554945054945055,
+          "recall": 0.7384615384615384,
+          "f1-score": 0.7424585218702866,
+          "support": 112.0
+        },
+        "weighted avg": {
+          "precision": 0.9365433673469388,
+          "recall": 0.9553571428571429,
+          "f1-score": 0.941920518207283,
+          "support": 112.0
+        }
+      }
+    },
+    "BiLSTM": {
+      "accuracy": 0.9642857142857143,
+      "precision": 0.8347578347578347,
+      "recall": 0.7641025641025642,
+      "f1": 0.7823076923076923,
+      "support": 112,
+      "report": {
+        "PUNCT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 23.0
+        },
+        "VERB": {
+          "precision": 0.8518518518518519,
+          "recall": 1.0,
+          "f1-score": 0.92,
+          "support": 23.0
+        },
+        "NOUN": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 25.0
+        },
+        "PRON": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 17.0
+        },
+        "ADJ": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 7.0
+        },
+        "ADP": {
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1-score": 0.75,
+          "support": 5.0
+        },
+        "DET": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "PROPN": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "ADV": {
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.5,
+          "support": 3.0
+        },
+        "CCONJ": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 2.0
+        },
+        "NUM": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 1.0
+        },
+        "INTJ": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "PART": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "accuracy": 0.9642857142857143,
+        "macro avg": {
+          "precision": 0.8347578347578347,
+          "recall": 0.7641025641025642,
+          "f1-score": 0.7823076923076923,
+          "support": 112.0
+        },
+        "weighted avg": {
+          "precision": 0.9695767195767196,
+          "recall": 0.9642857142857143,
+          "f1-score": 0.9590178571428571,
+          "support": 112.0
+        }
+      }
+    },
+    "BiLSTM_on_noisy": {
+      "accuracy": 0.9017857142857143,
+      "precision": 0.7842490842490843,
+      "recall": 0.7109157509157509,
+      "f1": 0.7118534416206035,
+      "support": 112,
+      "report": {
+        "PUNCT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 23.0
+        },
+        "VERB": {
+          "precision": 0.7666666666666667,
+          "recall": 1.0,
+          "f1-score": 0.8679245283018868,
+          "support": 23.0
+        },
+        "NOUN": {
+          "precision": 1.0,
+          "recall": 0.88,
+          "f1-score": 0.9361702127659575,
+          "support": 25.0
+        },
+        "PRON": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 17.0
+        },
+        "ADJ": {
+          "precision": 1.0,
+          "recall": 0.42857142857142855,
+          "f1-score": 0.6,
+          "support": 7.0
+        },
+        "ADP": {
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1-score": 0.75,
+          "support": 5.0
+        },
+        "DET": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "PROPN": {
+          "precision": 0.42857142857142855,
+          "recall": 1.0,
+          "f1-score": 0.6,
+          "support": 3.0
+        },
+        "ADV": {
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.5,
+          "support": 3.0
+        },
+        "CCONJ": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 2.0
+        },
+        "NUM": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 1.0
+        },
+        "INTJ": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "PART": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "accuracy": 0.9017857142857143,
+        "macro avg": {
+          "precision": 0.7842490842490843,
+          "recall": 0.7109157509157509,
+          "f1-score": 0.7118534416206035,
+          "support": 112.0
+        },
+        "weighted avg": {
+          "precision": 0.9367772108843536,
+          "recall": 0.9017857142857143,
+          "f1-score": 0.8983617809829673,
+          "support": 112.0
+        }
+      }
+    },
+    "BiLSTM_plus_spellcheck": {
+      "accuracy": 0.9732142857142857,
+      "precision": 0.8258547008547008,
+      "recall": 0.7897435897435897,
+      "f1": 0.8002864157119477,
+      "support": 112,
+      "report": {
+        "PUNCT": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 23.0
+        },
+        "VERB": {
+          "precision": 0.9583333333333334,
+          "recall": 1.0,
+          "f1-score": 0.9787234042553191,
+          "support": 23.0
+        },
+        "NOUN": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 25.0
+        },
+        "PRON": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 17.0
+        },
+        "ADJ": {
+          "precision": 0.7777777777777778,
+          "recall": 1.0,
+          "f1-score": 0.875,
+          "support": 7.0
+        },
+        "ADP": {
+          "precision": 1.0,
+          "recall": 0.6,
+          "f1-score": 0.75,
+          "support": 5.0
+        },
+        "DET": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "PROPN": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "ADV": {
+          "precision": 1.0,
+          "recall": 0.6666666666666666,
+          "f1-score": 0.8,
+          "support": 3.0
+        },
+        "CCONJ": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 2.0
+        },
+        "NUM": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 1.0
+        },
+        "INTJ": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "PART": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 0.0
+        },
+        "accuracy": 0.9732142857142857,
+        "macro avg": {
+          "precision": 0.8258547008547008,
+          "recall": 0.7897435897435897,
+          "f1-score": 0.8002864157119477,
+          "support": 112.0
+        },
+        "weighted avg": {
+          "precision": 0.9775545634920635,
+          "recall": 0.9732142857142857,
+          "f1-score": 0.9713003419452887,
+          "support": 112.0
+        }
+      }
+    }
+  },
+  "summary": {
+    "MostFrequentTag": {
+      "accuracy": 0.9553571428571429,
+      "precision": 0.7554945054945055,
+      "recall": 0.7384615384615384,
+      "f1": 0.7424585218702866,
+      "support": 112
+    },
+    "BiLSTM": {
+      "accuracy": 0.9642857142857143,
+      "precision": 0.8347578347578347,
+      "recall": 0.7641025641025642,
+      "f1": 0.7823076923076923,
+      "support": 112
+    },
+    "BiLSTM_on_noisy": {
+      "accuracy": 0.9017857142857143,
+      "precision": 0.7842490842490843,
+      "recall": 0.7109157509157509,
+      "f1": 0.7118534416206035,
+      "support": 112
+    },
+    "BiLSTM_plus_spellcheck": {
+      "accuracy": 0.9732142857142857,
+      "precision": 0.8258547008547008,
+      "recall": 0.7897435897435897,
+      "f1": 0.8002864157119477,
+      "support": 112
+    }
+  }
+}

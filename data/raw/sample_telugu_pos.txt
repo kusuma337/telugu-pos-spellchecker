@@ -1,0 +1,858 @@
+నేను	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+పుస్తకం	NOUN
+చదువుతున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+అన్నం	NOUN
+తింటున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+తెలుగు	PROPN
+నేర్చుకుంటున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+ఇంటికి	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+ఈ	DET
+పుస్తకం	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+ఆమె	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నది	VERB
+.	PUNCT
+
+ఆమె	PRON
+మంచి	ADJ
+విద్యార్థి	NOUN
+ఉంది	VERB
+.	PUNCT
+
+ఆమె	PRON
+కొత్త	ADJ
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+పాఠశాల	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+పెద్ద	ADJ
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+త్వరగా	ADV
+వస్తున్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+నెమ్మదిగా	ADV
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+వారు	PRON
+గ్రామం	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+వారు	PRON
+తెలుగు	PROPN
+మాట్లాడుతున్నారు	VERB
+.	PUNCT
+
+వారు	PRON
+ఇక్కడ	ADV
+ఆడుతున్నారు	VERB
+.	PUNCT
+
+మేము	PRON
+నగరం	NOUN
+కు	ADP
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+మేము	PRON
+హైదరాబాదు	PROPN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+నువ్వు	PRON
+మంచి	ADJ
+స్నేహితుడు	NOUN
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఈ	DET
+పాఠశాల	NOUN
+పెద్ద	ADJ
+ఉంది	VERB
+.	PUNCT
+
+ఆ	DET
+గ్రామం	NOUN
+చిన్న	ADJ
+ఉంది	VERB
+.	PUNCT
+
+ఒక	DET
+విద్యార్థి	NOUN
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+ఉపాధ్యాయుడు	NOUN
+పాఠశాల	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+తల్లి	NOUN
+ఇంటికి	NOUN
+వస్తున్నాడు	VERB
+.	PUNCT
+
+తండ్రి	NOUN
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+స్నేహితుడు	NOUN
+ఇక్కడ	ADV
+ఉన్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+నీరు	NOUN
+తింటున్నాను	VERB
+.	PUNCT
+
+ఆమె	PRON
+అన్నం	NOUN
+తింటున్నాను	VERB
+.	PUNCT
+
+అతను	PRON
+హైదరాబాదు	PROPN
+నుంచి	ADP
+వస్తున్నాడు	VERB
+.	PUNCT
+
+వారు	PRON
+విజయవాడ	PROPN
+కు	ADP
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+తెలుగు	PROPN
+భాష	NOUN
+అందమైన	ADJ
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+తెలుగు	PROPN
+భాష	NOUN
+నేర్చుకుంటున్నాను	VERB
+.	PUNCT
+
+ఈ	DET
+పుస్తకం	NOUN
+కొత్త	ADJ
+ఉంది	VERB
+.	PUNCT
+
+ఆ	DET
+పుస్తకం	NOUN
+పాత	ADJ
+ఉంది	VERB
+.	PUNCT
+
+రెండు	NUM
+పుస్తకం	NOUN
+ఇక్కడ	ADV
+ఉన్నాడు	VERB
+.	PUNCT
+
+మూడు	NUM
+విద్యార్థి	NOUN
+పాఠశాల	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఐదు	NUM
+రోజు	NOUN
+పని	NOUN
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+రేపు	ADV
+పాఠశాలకు	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+అతను	PRON
+నిన్న	ADV
+గ్రామం	NOUN
+కు	ADP
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+ఆమె	PRON
+ఇప్పుడు	ADV
+ఇంటికి	NOUN
+వెళ్తున్నది	VERB
+.	PUNCT
+
+నేను	PRON
+మరియు	CCONJ
+ఆమె	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+అతను	PRON
+కానీ	CCONJ
+నేను	PRON
+ఇంటికి	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+లేదా	CCONJ
+నువ్వు	PRON
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+విద్యార్థి	NOUN
+ఉపాధ్యాయుడు	NOUN
+తో	ADP
+మాట్లాడుతున్నారు	VERB
+.	PUNCT
+
+నేను	PRON
+పుస్తకం	NOUN
+కోసం	ADP
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+ఇది	PRON
+మంచి	ADJ
+పాఠశాల	NOUN
+ఉంది	VERB
+.	PUNCT
+
+అది	PRON
+పెద్ద	ADJ
+నగరం	NOUN
+ఉంది	VERB
+.	PUNCT
+
+భారతదేశం	PROPN
+పెద్ద	ADJ
+ఉంది	VERB
+.	PUNCT
+
+హైదరాబాదు	PROPN
+ఒక	DET
+నగరం	NOUN
+ఉంది	VERB
+.	PUNCT
+
+విజయవాడ	PROPN
+ఒక	DET
+నగరం	NOUN
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+అక్కడ	ADV
+ఉన్నాడు	VERB
+.	PUNCT
+
+వారు	PRON
+ఇక్కడ	ADV
+ఉన్నాడు	VERB
+.	PUNCT
+
+అవును	INTJ
+నేను	PRON
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+కాదు	PART
+నేను	PRON
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+చిన్న	ADJ
+ఇల్లు	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+ఆమె	PRON
+పెద్ద	ADJ
+ఇల్లు	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+అతను	PRON
+కొత్త	ADJ
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+మేము	PRON
+తెలుగు	PROPN
+మాట్లాడుతున్నారు	VERB
+.	PUNCT
+
+ఉపాధ్యాయుడు	NOUN
+మంచి	ADJ
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+విద్యార్థి	NOUN
+నెమ్మదిగా	ADV
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+త్వరగా	ADV
+చదువుతున్నాను	VERB
+.	PUNCT
+
+తల్లి	NOUN
+మరియు	CCONJ
+తండ్రి	NOUN
+ఇంటికి	NOUN
+వస్తున్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+గ్రామం	NOUN
+నుంచి	ADP
+వస్తున్నాడు	VERB
+.	PUNCT
+
+ఆమె	PRON
+నగరం	NOUN
+లో	ADP
+ఉంది	VERB
+.	PUNCT
+
+అతను	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+వారు	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+మేము	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+నువ్వు	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+ఒక	DET
+విద్యార్థి	NOUN
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఆమె	PRON
+ఒక	DET
+విద్యార్థి	NOUN
+ఉంది	VERB
+.	PUNCT
+
+ఈ	DET
+భాష	NOUN
+తెలుగు	PROPN
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+రోజు	NOUN
+పాఠశాలకు	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+అతను	PRON
+రోజు	NOUN
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+స్నేహితుడు	NOUN
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+అందమైన	ADJ
+గ్రామం	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+వారు	PRON
+అందమైన	ADJ
+నగరం	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+ఇది	PRON
+కొత్త	ADJ
+పుస్తకం	NOUN
+ఉంది	VERB
+.	PUNCT
+
+అది	PRON
+పాత	ADJ
+ఇల్లు	NOUN
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+విజయవాడ	PROPN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఆమె	PRON
+భారతదేశం	PROPN
+లో	ADP
+ఉంది	VERB
+.	PUNCT
+
+మేము	PRON
+ఇప్పుడు	ADV
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+వారు	PRON
+రేపు	ADV
+గ్రామం	NOUN
+కు	ADP
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+నువ్వు	PRON
+నిన్న	ADV
+పాఠశాల	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఒక	DET
+ఉపాధ్యాయుడు	NOUN
+ఇక్కడ	ADV
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఈ	DET
+విద్యార్థి	NOUN
+మంచి	ADJ
+ఉంది	VERB
+.	PUNCT
+
+ఆ	DET
+ఉపాధ్యాయుడు	NOUN
+పెద్ద	ADJ
+ఉన్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+కొత్త	ADJ
+పుస్తకం	NOUN
+చదువుతున్నాను	VERB
+.	PUNCT
+
+ఆమె	PRON
+పాత	ADJ
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+చిన్న	ADJ
+పుస్తకం	NOUN
+రాస్తున్నాడు	VERB
+.	PUNCT
+
+విద్యార్థి	NOUN
+పుస్తకం	NOUN
+రాస్తున్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+ఇల్లు	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఆమె	PRON
+ఇల్లు	NOUN
+లో	ADP
+ఉంది	VERB
+.	PUNCT
+
+తల్లి	NOUN
+అన్నం	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+తండ్రి	NOUN
+నీరు	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+మంచి	ADJ
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+వారు	PRON
+మంచి	ADJ
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+మేము	PRON
+చిన్న	ADJ
+గ్రామం	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+పెద్ద	ADJ
+నగరం	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+తెలుగు	PROPN
+మాట్లాడుతున్నారు	VERB
+.	PUNCT
+
+ఆమె	PRON
+తెలుగు	PROPN
+నేర్చుకుంటున్నాను	VERB
+.	PUNCT
+
+ఈ	DET
+రోజు	NOUN
+మంచి	ADJ
+ఉంది	VERB
+.	PUNCT
+
+ఆ	DET
+రోజు	NOUN
+పాత	ADJ
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+స్నేహితుడు	NOUN
+తో	ADP
+మాట్లాడుతున్నారు	VERB
+.	PUNCT
+
+అతను	PRON
+విద్యార్థి	NOUN
+తో	ADP
+మాట్లాడుతున్నారు	VERB
+.	PUNCT
+
+నేను	PRON
+పాఠశాల	NOUN
+కోసం	ADP
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+ఆమె	PRON
+పని	NOUN
+కోసం	ADP
+వెళ్తున్నది	VERB
+.	PUNCT
+
+వారు	PRON
+నీరు	NOUN
+మరియు	CCONJ
+అన్నం	NOUN
+ఉన్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+పుస్తకం	NOUN
+మరియు	CCONJ
+పని	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+ఇది	PRON
+ఒక	DET
+మంచి	ADJ
+పుస్తకం	NOUN
+ఉంది	VERB
+.	PUNCT
+
+అది	PRON
+ఒక	DET
+చిన్న	ADJ
+గ్రామం	NOUN
+ఉంది	VERB
+.	PUNCT
+
+హైదరాబాదు	PROPN
+మరియు	CCONJ
+విజయవాడ	PROPN
+నగరం	NOUN
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+ఇప్పుడు	ADV
+తెలుగు	PROPN
+చదువుతున్నాను	VERB
+.	PUNCT
+
+ఆమె	PRON
+రేపు	ADV
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+నిన్న	ADV
+పని	NOUN
+చేస్తున్నాడు	VERB
+.	PUNCT
+
+మేము	PRON
+అక్కడ	ADV
+ఆడుతున్నారు	VERB
+.	PUNCT
+
+వారు	PRON
+త్వరగా	ADV
+వస్తున్నాడు	VERB
+.	PUNCT
+
+నువ్వు	PRON
+నెమ్మదిగా	ADV
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+ఒక	DET
+స్నేహితుడు	NOUN
+ఇంటికి	NOUN
+వస్తున్నాడు	VERB
+.	PUNCT
+
+ఈ	DET
+ఇల్లు	NOUN
+అందమైన	ADJ
+ఉంది	VERB
+.	PUNCT
+
+ఆ	DET
+పాఠశాల	NOUN
+అందమైన	ADJ
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+ఐదు	NUM
+పుస్తకం	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+ఆమె	PRON
+రెండు	NUM
+పుస్తకం	NOUN
+చదువుతున్నాడు	VERB
+.	PUNCT
+
+అతను	PRON
+మూడు	NUM
+రోజు	NOUN
+ఉన్నాడు	VERB
+.	PUNCT
+
+విద్యార్థి	NOUN
+పాఠశాలకు	NOUN
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+ఉపాధ్యాయుడు	NOUN
+పాఠశాలకు	NOUN
+వస్తున్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+కాదు	PART
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+అవును	INTJ
+ఆమె	PRON
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+భాష	NOUN
+నేర్చుకుంటున్నాను	VERB
+.	PUNCT
+
+వారు	PRON
+భాష	NOUN
+మాట్లాడుతున్నారు	VERB
+.	PUNCT
+
+తల్లి	NOUN
+ఇల్లు	NOUN
+లో	ADP
+ఉంది	VERB
+.	PUNCT
+
+తండ్రి	NOUN
+నగరం	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+గ్రామం	NOUN
+లో	ADP
+ఉన్నాడు	VERB
+.	PUNCT
+
+ఆమె	PRON
+పాఠశాల	NOUN
+లో	ADP
+ఉంది	VERB
+.	PUNCT
+
+అతను	PRON
+కొత్త	ADJ
+ఇల్లు	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+మేము	PRON
+పాత	ADJ
+ఇల్లు	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+మంచి	ADJ
+ఉపాధ్యాయుడు	NOUN
+చూస్తున్నాను	VERB
+.	PUNCT
+
+ఈ	DET
+గ్రామం	NOUN
+చిన్న	ADJ
+ఉంది	VERB
+.	PUNCT
+
+ఆ	DET
+నగరం	NOUN
+పెద్ద	ADJ
+ఉంది	VERB
+.	PUNCT
+
+నేను	PRON
+విద్యార్థి	NOUN
+మరియు	CCONJ
+ఆమె	PRON
+ఉపాధ్యాయుడు	NOUN
+ఉంది	VERB
+.	PUNCT
+
+అతను	PRON
+స్నేహితుడు	NOUN
+కానీ	CCONJ
+నేను	PRON
+విద్యార్థి	NOUN
+ఉన్నాడు	VERB
+.	PUNCT
+
+నేను	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాను	VERB
+.	PUNCT
+
+అతను	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నాడు	VERB
+.	PUNCT
+
+ఆమె	PRON
+పాఠశాలకు	NOUN
+వెళ్తున్నది	VERB
+.	PUNCT
+
+నేను	PRON
+తెలుగు	PROPN
+నేర్చుకుంటున్నాను	VERB
+.	PUNCT
+
+నేను	PRON
+పుస్తకం	NOUN
+చదువుతున్నాను	VERB
+.	PUNCT
+
+ఈ	DET
+పుస్తకం	NOUN
+మంచి	ADJ
+ఉంది	VERB
+.	PUNCT
+
+హైదరాబాదు	PROPN
+ఒక	DET
+నగరం	NOUN
+ఉంది	VERB
+.	PUNCT
